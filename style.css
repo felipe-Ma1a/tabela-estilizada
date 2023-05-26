@@ -1,0 +1,34 @@
+.font-titulo {
+    font-size: 20px;
+}
+
+.formatacao-tabela {
+    height: 6px;
+    margin: 20px;
+    padding: 2px;
+
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
+
+.texto-tabela {
+    color: antiquewhite;
+}
+
+.produtos-tabela {
+    background-color: #424250;
+}
+
+.produtos-formatacao, .cabecalho-formatacao {
+    padding: 5px;
+}
+
+/* th, td {
+    padding: 5px;
+} */
