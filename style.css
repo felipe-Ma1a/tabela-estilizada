@@ -1,12 +1,7 @@
-.font-titulo {
-    font-size: 20px;
-}
-
 .formatacao-tabela {
     height: 6px;
     margin: 20px;
     padding: 2px;
-
 }
 
 .cabecalho-moda {
@@ -17,6 +12,10 @@
     background-color: #00C4B4;
 }
 
+.cabecalho-moda th, .cabecalho-casa th {
+    padding: 5px;
+}
+
 .texto-tabela {
     color: antiquewhite;
 }
@@ -25,10 +24,7 @@
     background-color: #424250;
 }
 
-.produtos-formatacao, .cabecalho-formatacao {
+.produtos-tabela td {
     padding: 5px;
 }
 
-/* th, td {
-    padding: 5px;
-} */
